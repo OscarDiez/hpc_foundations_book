@@ -12,6 +12,4 @@ This repository contains the source material for the textbook *Foundations of Hi
 
 📖 Companion volume: [HPC Applications and Frontiers](https://github.com/OscarDiez/hpc_applications_book)
 
-🏫 HPC Course repository: [HPC Course](https://github.com/OscarDiez/hpc_course)
-
 ---
